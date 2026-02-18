@@ -1,0 +1,20 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# IDE Settings
+.idea/
+.vscode/
+*.swp
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Test coverage files
+*.out
